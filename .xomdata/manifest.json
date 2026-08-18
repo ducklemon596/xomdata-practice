@@ -34,5 +34,6 @@
   "practice/sql/hard/hard-anti-001/solution.sql": "cfc0b98094a830e9928164901561f8a00f7e16af457c096bfacda3d4724ff216",
   "practice/sql/hard/hard-retention-001/solution.sql": "e1c2371bf51105d3ddb8b8646cad43b446119ae6b050110b0502784e656f2704",
   "practice/sql/hard/hard-conditional-001/solution.sql": "60f1f25321733a8488f5bdd547e67ea3d91f7eb7af55ffc63519a512e5e21662",
-  "practice/sql/hard/hard-percentile-001/solution.sql": "2f8c164ff7e4c904125c0c450bc9d300275ac3f5011a8033ca672463c5f6bdd4"
+  "practice/sql/hard/hard-percentile-001/solution.sql": "2f8c164ff7e4c904125c0c450bc9d300275ac3f5011a8033ca672463c5f6bdd4",
+  "practice/sql/hard/hard-funnel-001/solution.sql": "722179f2d723a491e409377f019d78af7c014ccbb0645bcfedec6ee2e2a0ed29"
 }
