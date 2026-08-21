@@ -35,5 +35,9 @@
   "practice/sql/hard/hard-retention-001/solution.sql": "e1c2371bf51105d3ddb8b8646cad43b446119ae6b050110b0502784e656f2704",
   "practice/sql/hard/hard-conditional-001/solution.sql": "60f1f25321733a8488f5bdd547e67ea3d91f7eb7af55ffc63519a512e5e21662",
   "practice/sql/hard/hard-percentile-001/solution.sql": "2f8c164ff7e4c904125c0c450bc9d300275ac3f5011a8033ca672463c5f6bdd4",
-  "practice/sql/hard/hard-funnel-001/solution.sql": "722179f2d723a491e409377f019d78af7c014ccbb0645bcfedec6ee2e2a0ed29"
+  "practice/sql/hard/hard-funnel-001/solution.sql": "722179f2d723a491e409377f019d78af7c014ccbb0645bcfedec6ee2e2a0ed29",
+  "practice/sql/hard/hard-topn-001/solution.sql": "971361fe840fe9517a18041ca40cf9e0949c0d70346890b1e366322cf823657f",
+  "practice/sql/hard/hard-hierarchical-001/solution.sql": "3018c499a35410126526ccac643e4fa7671779aa5434d648c6ed566120fffee6",
+  "practice/sql/hard/hard-churn-001/solution.sql": "541e00440ba3b64ca7ed3ad86bd72e7a600dd5489904e233d05789ef4068294d",
+  "practice/sql/hard/hard-frame-001/solution.sql": "eb4b020fdb45cd7437867190f985357bc60f7539a840f249253d0cacc5517783"
 }
