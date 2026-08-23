@@ -39,5 +39,7 @@
   "practice/sql/hard/hard-topn-001/solution.sql": "971361fe840fe9517a18041ca40cf9e0949c0d70346890b1e366322cf823657f",
   "practice/sql/hard/hard-hierarchical-001/solution.sql": "3018c499a35410126526ccac643e4fa7671779aa5434d648c6ed566120fffee6",
   "practice/sql/hard/hard-churn-001/solution.sql": "541e00440ba3b64ca7ed3ad86bd72e7a600dd5489904e233d05789ef4068294d",
-  "practice/sql/hard/hard-frame-001/solution.sql": "eb4b020fdb45cd7437867190f985357bc60f7539a840f249253d0cacc5517783"
+  "practice/sql/hard/hard-frame-001/solution.sql": "eb4b020fdb45cd7437867190f985357bc60f7539a840f249253d0cacc5517783",
+  "practice/sql/hard/hard-gapfill-001/solution.sql": "bcfe71fc03216194141fb29898375987fd280b986639f77e29d81ca598672bb9",
+  "practice/sql/hard/hard-session-001/solution.sql": "1770148cd9880dc94f1619d6c1be5e2c4cc947860a2dfb7dd44c1dc381a1bfd8"
 }
