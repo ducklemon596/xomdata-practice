@@ -41,5 +41,7 @@
   "practice/sql/hard/hard-churn-001/solution.sql": "541e00440ba3b64ca7ed3ad86bd72e7a600dd5489904e233d05789ef4068294d",
   "practice/sql/hard/hard-frame-001/solution.sql": "eb4b020fdb45cd7437867190f985357bc60f7539a840f249253d0cacc5517783",
   "practice/sql/hard/hard-gapfill-001/solution.sql": "bcfe71fc03216194141fb29898375987fd280b986639f77e29d81ca598672bb9",
-  "practice/sql/hard/hard-session-001/solution.sql": "1770148cd9880dc94f1619d6c1be5e2c4cc947860a2dfb7dd44c1dc381a1bfd8"
+  "practice/sql/hard/hard-session-001/solution.sql": "1770148cd9880dc94f1619d6c1be5e2c4cc947860a2dfb7dd44c1dc381a1bfd8",
+  "practice/sql/hard/hard-yoy-001/solution.sql": "96cec6c9540278021e79380791514bb72e753c3439a75a912e8f5d0b480f9437",
+  "practice/sql/hard/hard-fifo-001/solution.sql": "2cc7946a846dc90d28f3799ff3a112af2b0d3658195cc2b38014a0c65b8b15d0"
 }
