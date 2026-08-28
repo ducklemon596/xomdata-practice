@@ -44,5 +44,9 @@
   "practice/sql/hard/hard-session-001/solution.sql": "1770148cd9880dc94f1619d6c1be5e2c4cc947860a2dfb7dd44c1dc381a1bfd8",
   "practice/sql/hard/hard-yoy-001/solution.sql": "96cec6c9540278021e79380791514bb72e753c3439a75a912e8f5d0b480f9437",
   "practice/sql/hard/hard-fifo-001/solution.sql": "2cc7946a846dc90d28f3799ff3a112af2b0d3658195cc2b38014a0c65b8b15d0",
-  "practice/sql/hard/hard-mrr-001/solution.sql": "f410525e4d191d8967832652e1e07321c65c9fae3cb31b3296f60536bbdcb6dd"
+  "practice/sql/hard/hard-mrr-001/solution.sql": "f410525e4d191d8967832652e1e07321c65c9fae3cb31b3296f60536bbdcb6dd",
+  "practice/sql/hard/hard-retention-002/solution.sql": "e2967ac57b2a58a0eadbb1839b02fbef9271a0f2c92d14d601947acc3788bf4e",
+  "practice/sql/hard/hard-recursive-001/solution.sql": "1e86d0861c3dbb49ae51907322b7f5d2052e2b87b6fe26707ecab986edc446b5",
+  "practice/sql/hard/hard-rfm-002/solution.sql": "4a7f070fdee5e881d1e5bf0f74ba16b9f1804f5dd79534b2d81c8259f2f8d433",
+  "practice/sql/hard/hard-cohort-002/solution.sql": "5a9ca551048d589358505e9c099a1982387d2ade1049d619c8688e7d2118eb36"
 }
