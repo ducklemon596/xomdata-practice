@@ -48,5 +48,6 @@
   "practice/sql/hard/hard-retention-002/solution.sql": "e2967ac57b2a58a0eadbb1839b02fbef9271a0f2c92d14d601947acc3788bf4e",
   "practice/sql/hard/hard-recursive-001/solution.sql": "1e86d0861c3dbb49ae51907322b7f5d2052e2b87b6fe26707ecab986edc446b5",
   "practice/sql/hard/hard-rfm-002/solution.sql": "4a7f070fdee5e881d1e5bf0f74ba16b9f1804f5dd79534b2d81c8259f2f8d433",
-  "practice/sql/hard/hard-cohort-002/solution.sql": "5a9ca551048d589358505e9c099a1982387d2ade1049d619c8688e7d2118eb36"
+  "practice/sql/hard/hard-cohort-002/solution.sql": "5a9ca551048d589358505e9c099a1982387d2ade1049d619c8688e7d2118eb36",
+  "practice/sql/hard/hard-rfm-001/solution.sql": "c25a0e427b43eb81e4c38c4daa718c1a79223f76e1480d53f2bfe77365e40755"
 }
