@@ -53,5 +53,6 @@
   "practice/sql/hard/hard-monetary-001/solution.sql": "3e4cea43451bfb2244c94b7fa1fceca94b6f684e5e298ef9e3f45f01eaa03d73",
   "practice/sql/hard/hard-cohort-003/solution.sql": "a0a3ea81313640a357e4bd6e324c2fbdfbf6032ba16d1ca43d142ad2d9d9eb3b",
   "practice/sql/hard/hard-streak-001/solution.sql": "04146a1b3a32fcd725bff655235c73655b165b5ee39e58285824ae4f7a00ee6e",
-  "practice/sql/hard/hard-rfm-006/solution.sql": "63a53fa745feab48e215c67b94dbb7050f653e91edda29e76119312a3c12f9a5"
+  "practice/sql/hard/hard-rfm-006/solution.sql": "63a53fa745feab48e215c67b94dbb7050f653e91edda29e76119312a3c12f9a5",
+  "practice/sql/hard/hard-gap-001/solution.sql": "2d891076c02b4824af04c4ad3329d34a1dcaf3c9c31205b8a84081b33709e971"
 }
