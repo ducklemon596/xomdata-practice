@@ -56,5 +56,6 @@
   "practice/sql/hard/hard-rfm-006/solution.sql": "63a53fa745feab48e215c67b94dbb7050f653e91edda29e76119312a3c12f9a5",
   "practice/sql/hard/hard-gap-001/solution.sql": "2d891076c02b4824af04c4ad3329d34a1dcaf3c9c31205b8a84081b33709e971",
   "practice/sql/hard/hard-gap-003/solution.sql": "5c4b666e902406831b6a8d8511815e032aaf320f00568a705fcbe5579d0aceed",
-  "practice/sql/hard/hard-rfm-004/solution.sql": "e040d643c4a8b86249375369f3c0f00bf1ccb5a5650836a9255e8cd3fe2ad10e"
+  "practice/sql/hard/hard-rfm-004/solution.sql": "e040d643c4a8b86249375369f3c0f00bf1ccb5a5650836a9255e8cd3fe2ad10e",
+  "practice/sql/hard/hard-winback-002/solution.sql": "e3286f7487e30bd895daa9c4c22f7333e5a6e6a97eaff7e69ca27e5ac30f643a"
 }
